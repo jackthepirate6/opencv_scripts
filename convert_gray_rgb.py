@@ -17,3 +17,5 @@ while(cap.isOpened()):
 
 cap.release()
 cv2.destroyAllWindows()
+#This script is used to convert video stream from bgr to grayscale
+#
